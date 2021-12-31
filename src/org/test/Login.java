@@ -1,5 +1,5 @@
 package org.test;
 
-public class Sample {
+public class Login {
 
 }
